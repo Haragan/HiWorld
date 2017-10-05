@@ -1,0 +1,5 @@
+<resources>
+    <!--Добавил строку my_app-->
+    <string name="app_name">Привет, Андроид!</string>
+    <string name="my_app">Мое приложение</string>
+</resources>

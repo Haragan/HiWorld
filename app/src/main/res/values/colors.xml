@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Изменил цвета был синий и темносиний, стал желтый и зеленый-->
+    <color name="colorPrimary">#43b53f</color>
+    <color name="colorPrimaryDark">#e1de34</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="myColor">#00b2ff</color>
+</resources>
